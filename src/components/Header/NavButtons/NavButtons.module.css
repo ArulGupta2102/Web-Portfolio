@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-size: medium;
+  font-weight: bold;
+}

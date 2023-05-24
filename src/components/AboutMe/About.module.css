@@ -1,0 +1,20 @@
+.about {
+  font-family: "Commissioner", sans-serif;
+  padding: 0.7rem 2.5rem;
+  margin: 1rem 4rem;
+  color: rgb(236, 231, 231);
+  font-size: larger;
+}
+
+.head {
+  display: flex;
+  justify-content: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.button {
+  margin: auto 0;
+  margin-right: 1rem;
+}

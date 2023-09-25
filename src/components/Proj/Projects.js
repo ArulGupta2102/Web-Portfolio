@@ -21,7 +21,7 @@ const Projects = () => {
         "https://github.com/ArulGupta2102/Online-FoodOrdering-Site.git",
     },
     "Price Compariion Engine": {
-      site: "",
+      site: "https://e-commerce-price-comp.netlify.app/",
       pic: "",
       about: `A Full-Stack website which compares prices for you from the leading e-commerce websites with the help of web-scrapping.(This project is still under development and not yet deployed).`,
       githubRepo: "https://github.com/ArulGupta2102/Price-Comparision-Engine",

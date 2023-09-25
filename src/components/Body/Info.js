@@ -13,7 +13,7 @@ const Info = () => {
           Front-end Web Developer and Cloud-Enthusiast
         </font>
         <br />
-        <Button>Download Resume</Button> Not created yet.
+        <Button>Download Resume</Button> Not uploaded yet.
         <div className={classes.icons}>
           <a
             href="https://www.facebook.com/arul.gupta.9634"
